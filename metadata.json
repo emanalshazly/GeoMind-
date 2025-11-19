@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeoMind - Map AI Assistant",
+  "description": "An interactive map-based chatbot powered by Gemini 2.5 Flash for real-time location/search data and Gemini 3 Pro for deep reasoning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
